@@ -1,0 +1,5 @@
+package arxdb;
+
+class Errors {
+    
+}
