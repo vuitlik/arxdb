@@ -37,6 +37,7 @@ class Lexer {
             
             {":", "select"},
             {"~", "select"},
+            {"-", "select"},
 
             {"!", "comp"},
             {"=", "comp"},
