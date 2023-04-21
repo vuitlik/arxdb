@@ -3,8 +3,6 @@ package arxdb.manipulator.entities;
 import java.io.BufferedReader;
 import java.io.Reader;
 
-class M_UnitBase {
+class F_UnitBase extends P_UnitBase {
     protected String name;
-    protected Reader file;
-    protected BufferedReader in;
 }
